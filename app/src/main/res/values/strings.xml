@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica003</string>
+    <string name="numero_a">Numero A</string>
+    <string name="numero_b">Numero B</string>
+    <string name="resultado">Resultado</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="operacion">Operacion</string>
+</resources>
